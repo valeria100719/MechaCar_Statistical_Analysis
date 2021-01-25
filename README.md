@@ -1,13 +1,21 @@
 # MechaCar_Statistical_Analysis
 
+The goal of this project is to perform a statistical analysis of the MechaCar dataset using multiple linear regression.
+In this way we will be able to identify the variables in the dataset that predict the mpg of the MechaCar prototypes.
+
+- The study will be performed using linear regression analysis to identify which variables in the dataset predict the mpg of the MechaCar prototypes.
+- Perform t-tests to determine if production batches are statistically different from the mean population.
+- Perform a statistical analysis to compare the vehicle performance of MechaCar vehicles with vehicles from other manufacturers.
+
 ## Delivery 1 (Linear regression)
 
-Using the "dplyr" library, a multiple regression model was run using the lm function with all 6 variables in the database:vehicle length,vehicle weight
-spoiler angle,ground clearance and AWD
+Intercept, vehicle_length, and ground_clearance show a significant variation from the mpg values in the dataset.
+the slope is not considered zero. Since the null hypothesis H0 is rejected.
+The null hypothesis is rejected due to 3 variables (ntercept, vehicle_length and ground_clearance) showing a variance of significance.
+such analysis suggests that there may be variables that have not been calculated by our analysis, which should be analyzed.
 
-![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/1.1.png?raw=true)
 
-The variables with very small values of Pr(>|t|) are the vehicle_length and ground_clearance, this means that these monstly contributing to the mpg.
+
 
 ## Delivery 2 (Suspension coil)
 
