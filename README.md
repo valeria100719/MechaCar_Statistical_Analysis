@@ -26,8 +26,11 @@ In the fist study the data suggests that the manufacturing meets the design spec
 ![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/m.m.v..png?raw=true)
 ![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lotsummary.png?raw=true)
 
-## Delivery 3 (t-test)
 
-the t-test was ran the t-test on 3 different lot#
+## Delivery 3 (T-Test)
+
+Since in our previous analysis we found that lot 3 is outside the limitations of the design specification.
+We decided to carry out a 3 T-Test, one for each specific lot #.
+Again, our study that lot1 and lot2 are within the allowed limits, while lot3 is out of range.
 
 ### lot1
