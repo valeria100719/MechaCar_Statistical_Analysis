@@ -39,4 +39,12 @@ Again, our study that lot1 and lot2 are within the allowed limits, while lot3 is
 
 ![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lotttest3.png?raw=true)
 
+# Study Design : MechaCar vs Competition
 
+Our study demonstrates how the data collected for MechaCar shows that there are some key points for mpg: vehicle_length and ground_clearance. Furthermore, our study shows that there are some variables that are not taken into account but which could have a big impact on mpg.
+
+The null hypothesis will be that there is no statistical difference in PSI between the competition and MechaCar. The alternative hypothesis will be that there is a statistical difference in PSI between the competition and MechaCar.
+
+Our study shows that if the analysis is carried out without taking into account the batch #, the data is distorted, and it seems that MechaCar falls within the design limits, but if the study is conducted considering the single batch #, the result changes.
+
+We also performed the t-test on the different lot numbers. This test involves the presence of two separate samples. A sample consisting of PSI data for a cluster of MechaCars. A second sample consisting of engine power data for a grouping of competition cars.
