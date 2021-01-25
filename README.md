@@ -13,8 +13,8 @@ Intercept, vehicle_length, and ground_clearance show a significant variation fro
 the slope is not considered zero. Since the null hypothesis H0 is rejected.
 The null hypothesis is rejected due to 3 variables (ntercept, vehicle_length and ground_clearance) showing a variance of significance.
 such analysis suggests that there may be variables that have not been calculated by our analysis, which should be analyzed.
-
-
+![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/linearRegression.png?raw=true)
+![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/linearRsummary.png?raw=true)
 
 
 ## Delivery 2 (Suspension coil)
