@@ -33,4 +33,8 @@ Since in our previous analysis we found that lot 3 is outside the limitations of
 We decided to carry out a 3 T-Test, one for each specific lot #.
 Again, our study that lot1 and lot2 are within the allowed limits, while lot3 is out of range.
 
-### lot1
+![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lottest1.png?raw=true)
+
+![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lottest2.png?raw=true)
+
+![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lottest3.png?raw=true)
