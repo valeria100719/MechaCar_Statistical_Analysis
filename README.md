@@ -38,3 +38,5 @@ Again, our study that lot1 and lot2 are within the allowed limits, while lot3 is
 ![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lottest2.png?raw=true)
 
 ![alt text](https://github.com/valeria100719/MechaCar_Statistical_Analysis/blob/main/lottest3.png?raw=true)
+
+
